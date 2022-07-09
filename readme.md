@@ -19,9 +19,13 @@ $ docker build -t Content-Based-Image-Captioning .
 $ docker run -it --rm -p 5000:5000 Content-Based-Image-Captioning
 ```
 
-### Demo :-
+### Sample :-
 <p align='center'>
  <img src="samples/images.jpg" alt='A surfer riding a large wave in the ocean.'>
 </p>
 <br/>
 <h2 align='center'>A surfer riding a large wave in the ocean.</h2>
+
+### Demo :-
+A demo site has been deployed to give better visual understanding of the project itself it is written in flutter for android, it is currently in beta stage and will keep on getting updated.
+<a href='https://imagecaptioning-ec0f5.web.app/#/'>Here is the link to the site</a>
